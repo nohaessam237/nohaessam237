@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Noha Essam
 
-<!--
-**nohaessam237/nohaessam237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Engineer | Offensive Security
 
-Here are some ideas to get you started:
+Cybersecurity professional focused on identifying security weaknesses, assessing application and infrastructure security, and understanding real-world attack paths.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary interests are Web Application Security, API Security, Network Penetration Testing, Active Directory, and Mobile Application Security.
+
+## Areas of Focus
+
+- Web Application Penetration Testing
+- API Security Assessment
+- Network Penetration Testing
+- Active Directory Security
+- Android & iOS Security Testing
+- Vulnerability Assessment
+- Security Automation
+
+## Tools & Technologies
+
+**Web & API Security**
+- Burp Suite Professional
+- OWASP ZAP
+- Nmap
+- FFUF
+- Gobuster
+
+**Infrastructure & Network**
+- Nessus
+- Metasploit
+- Wireshark
+- BloodHound
+- PowerView
+
+**Mobile Security**
+- Frida
+- Objection
+- JADX
+- Apktool
+- Ghidra
+
+**Programming & Scripting**
+- Python
+- Bash
+- Java
+- C++
+
+## Featured Work
+
+I use this GitHub profile to document:
+
+- Practical penetration testing methodologies.
+- Security research and technical writeups.
+- Authorized lab assessments and CTF solutions.
+- Security automation scripts.
+- Application and infrastructure security notes.
+
+## Current Learning Focus
+
+- Advanced Web & API Penetration Testing
+- Active Directory Attack Paths
+- iOS Application Security
+- Advanced Mobile Application Security
+
+## Connect
+
+- LinkedIn: [Add your LinkedIn URL]
+- GitHub: [@nohaessam237]
