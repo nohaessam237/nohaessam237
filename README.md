@@ -64,5 +64,5 @@ I use this GitHub profile to document:
 
 ## Connect
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn:(https://www.linkedin.com/in/noha-essam-079679221)
 - GitHub: [@nohaessam237]
